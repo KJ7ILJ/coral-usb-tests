@@ -1,2 +1,2 @@
 # coral-usb-tests
-Repo for object recognition projects I made while learning to use a TPU.
+Repo for object recognition projects using an Edge TPU
